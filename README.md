@@ -9,3 +9,6 @@ How to run this example:
 3. $mvn package
 4. $java -jar aws-elasticache-example-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+
+REDIS Client conneciton URL for JAVA as JEDIS examples 
+http://www.baeldung.com/jedis-java-redis-client-library
